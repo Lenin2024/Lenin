@@ -1,0 +1,2 @@
+# Lenin
+first_project
